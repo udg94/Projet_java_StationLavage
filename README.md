@@ -1,2 +1,2 @@
 # Projet_java_StationLavage
-project fait avec Pierre ATTON
+project de Ugo Di GiUSTO et Pierre ATTON
